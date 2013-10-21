@@ -120,6 +120,9 @@
 <text x="3.81" y="7.62" size="1.016" layer="21" font="vector" ratio="12" align="center-left">COM</text>
 <text x="3.81" y="12.7" size="1.016" layer="21" font="vector" ratio="12" align="center-left">S1</text>
 <text x="3.81" y="15.24" size="1.016" layer="21" font="vector" ratio="12" align="center-left">S2</text>
+<text x="7.62" y="19.05" size="0.8128" layer="16" ratio="18" rot="MR0">C.SCHNAREL</text>
+<text x="6.985" y="0.635" size="0.8128" layer="16" ratio="18" rot="MR0">20OCT2013</text>
+<text x="16.51" y="16.51" size="0.8128" layer="16" ratio="18" rot="MR270">PEC16-2115F-S0012</text>
 </plain>
 <libraries>
 <library name="ChipsParts">
