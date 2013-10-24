@@ -29,7 +29,7 @@ You will be able to order any of these PCBs from OSH Park.  Click on one of the 
   * PEC16 edge - http://www.oshpark.com/shared_projects/QfFKi2uG
 
 ## Status
-  * EN12-VS edge - not yet tested, board on order  
+  * EN12-VS edge - PCBs layout tested to be correct, holes are acceptable but could be a bit larger to ease assembly  
   * PEC16 edge - not yet tested, board on order  
   * PEC16 straddle - not yet tested, board not yet ordered   
 

@@ -512,11 +512,11 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 </package>
 <package name="EN12-VS">
 <description>Switch, rotary encoder, gray code + push button (NO), TT Electronics, EN12-VS, from TT Electronics datasheet 05/13/08.</description>
-<pad name="COM" x="0" y="0" drill="1"/>
-<pad name="B" x="2.5" y="0" drill="1"/>
-<pad name="A" x="-2.5" y="0" drill="1"/>
-<pad name="D" x="-2.5" y="2.5" drill="1"/>
-<pad name="E" x="2.5" y="2.5" drill="1"/>
+<pad name="COM" x="0" y="0" drill="1.1" diameter="1.9304"/>
+<pad name="B" x="2.5" y="0" drill="1.1" diameter="1.9304"/>
+<pad name="A" x="-2.5" y="0" drill="1.1" diameter="1.9304"/>
+<pad name="D" x="-2.5" y="2.5" drill="1.1" diameter="1.9304"/>
+<pad name="E" x="2.5" y="2.5" drill="1.1" diameter="1.9304"/>
 <pad name="P$6" x="6.4" y="3.5" drill="2.2"/>
 <pad name="P$7" x="-6.4" y="3.5" drill="2.2"/>
 <wire x1="-6.2" y1="-2.5" x2="6.2" y2="-2.5" width="0.127" layer="21"/>
